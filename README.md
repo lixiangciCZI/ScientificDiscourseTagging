@@ -1,4 +1,4 @@
-# Discourse Tagging for Scientific Evidence Extraction
+#  Discourse Tagging for Scientific Evidence Extraction
 
 This is a discourse tagger that tags each clause in a given paragraph from a biomedical paper with 8 types of discourse types, such as "fact", "method", "result", "implication" etc. The paper will be available as soon as it's published.
 
